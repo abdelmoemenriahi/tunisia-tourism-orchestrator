@@ -1,0 +1,21 @@
+region,hotel_name,month,occupancy_rate,revenue_tnd
+Sousse,Hotel Sousse A,January,78.5,125000
+Sousse,Hotel Sousse B,January,82.3,143000
+Sousse,Hotel Sousse A,February,71.0,118000
+Sousse,Hotel Sousse B,February,65.0,109000
+Tunis,Hotel Tunis B,January,65.2,210000
+Tunis,Hotel Tunis C,January,70.1,195000
+Tunis,Hotel Tunis B,February,60.0,187000
+Tunis,Hotel Tunis C,February,55.4,171000
+Djerba,Hotel Djerba C,January,91.0,88000
+Djerba,Hotel Djerba D,January,88.5,95000
+Djerba,Hotel Djerba C,February,85.0,82000
+Djerba,Hotel Djerba D,February,79.3,91000
+Monastir,Hotel Monastir D,January,48.0,61000
+Monastir,Hotel Monastir E,January,52.1,67000
+Monastir,Hotel Monastir D,February,43.5,55000
+Monastir,Hotel Monastir E,February,58.0,72000
+Nabeul,Hotel Nabeul F,January,61.0,79000
+Nabeul,Hotel Nabeul G,January,74.5,93000
+Nabeul,Hotel Nabeul F,February,57.0,71000
+Nabeul,Hotel Nabeul G,February,69.2,88000

@@ -1,0 +1,11 @@
+pandas
+httpx
+tenacity
+jsonschema
+streamlit
+plotly
+pytest
+pytest-asyncio
+loguru
+numpy
+#installing command: pip install -r requirements.txt
